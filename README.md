@@ -3,8 +3,7 @@ Hello, and Welcome! 👋
 
 I am a software engineering manager with an extensive background in software development.
 
-My current interests are Ruby on Rails, and iOS development. Most of my work is on private repositories, so there isn't too much to see here at the moment. Seeing that Rails 8 just came out (and there is so much goodness to learn about), I plan to create a sample repo or two as I navigate through the new features.
-
+My current interests are Ruby on Rails, iOS development, and AI. Most of my work is on private repositories, but I do have one public RubyGem that you might like. Enjoy!
 <!--
 **bunnahabhain/bunnahabhain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
